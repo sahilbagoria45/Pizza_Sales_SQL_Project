@@ -15,5 +15,13 @@ This project analyzes pizza sales data using SQL.
 - Peak Order Hours
 - Category Wise Sales
 
+- ## Files
+- pizza_sales_queries.sql : SQL queries used for analysis
+- Dataset : Pizza sales data
+- Dashboard : Visualization of insights
+
+## Skills
+SQL, Data Analysis, MySQL, Excel
+
 ## Author
 Sahil
